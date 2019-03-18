@@ -1,7 +1,7 @@
 # Buscar-archivos-duplicados-por-la-Terminal
 Como buscar archivos duplicados por la terminal Linux
 
-1. Abre tu terminal y escribe lo siguiente:
+1. Abre tu terminal e instala lo siguiente:
 ```
 sudo apt install rdfind
 ```
