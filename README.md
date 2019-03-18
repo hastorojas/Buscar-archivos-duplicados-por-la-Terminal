@@ -13,4 +13,4 @@ rdfind /home
 ```
 cat result.txt
 ```
-4. Y listo !, Ahi podras ver la ruta y los archivos duplicados que tengas
+4. Y listo !, Allí podras ver la ruta y los archivos duplicados que tengas
